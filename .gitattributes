@@ -1,0 +1,2 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+AMPL_GUI-bld9_sprint2_Aug_2020.zip filter=lfs diff=lfs merge=lfs -text
